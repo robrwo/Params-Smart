@@ -1,6 +1,7 @@
 Revision history for Perl extension Params::Smart.
 
 0.09
+	- Minor changes related to upload to GitHub.
 	- fixed typos in documentation
 	- added test case for no arguments
 
